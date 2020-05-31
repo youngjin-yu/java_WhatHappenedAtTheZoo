@@ -1,0 +1,9 @@
+
+Qsquid:S1172".Remove this unused method parameter "penguin".(™ƒä×ùÿÿÿÿ8ªºŞ´‡.
+Lsquid:S1172".Remove this unused method parameter "penguin".(ìÜ˜Ñ8ªºŞ´‡.
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÜ˜Ñ8ªºŞ´‡.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ƒä×ùÿÿÿÿ8ªºŞ´‡.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÀØz8´€ş†.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁõÙñşÿÿÿÿ8ãÚş†.

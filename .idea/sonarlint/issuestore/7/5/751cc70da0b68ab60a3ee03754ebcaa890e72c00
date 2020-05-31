@@ -1,0 +1,42 @@
+
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğµ¨É‰.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğµ¨É‰.
+”
+java:S1192,"wDefine a constant instead of duplicating this literal "ë…ìˆ˜ë¦¬ì˜ í˜„ì¬ ìƒíƒœ: 1.ë…ìˆ˜ë¦¬ì˜ ë°©ì–´ë ¥: " 3 times.(ºÄÕ°8ğµ¨É‰.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğµ¨É‰.
+|
+java:S1192-"_Define a constant instead of duplicating this literal ",    ìƒì–´ì˜ í˜„ì¬ ì²´ë ¥: " 3 times.(Ñœ™ô8ğµ¨É‰.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğµ¨É‰.
+G
+java:S1068"*Remove this unused "viking" private field.(Àó’¾8ğµ¨É‰.
+L
+java:S1068"*Remove this unused "knight" private field.(ÉÙÛëûÿÿÿÿ8ğµ¨É‰.
+M
+java:S1068"+Remove this unused "samurai" private field.(Šóÿ™şÿÿÿÿ8ğµ¨É‰.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(Ñœ™ô8ğµ¨É‰.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(Ñœ™ô8ğµ¨É‰.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğµ¨É‰.
+T	java:S106("9Replace this use of System.out or System.err by a logger.(€Û”8ğµ¨É‰.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğµ¨É‰.
+‘
+java:S1192-"tDefine a constant instead of duplicating this literal "  ìƒì–´ì˜ í˜„ì¬ ìƒíƒœ:  1.ìƒì–´ì˜ ë°©ì–´ë ¥: " 3 times.(Ñœ™ô8ğµ¨É‰.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğµ¨É‰.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ºÄÕ°8ğµ¨É‰.
+~
+java:S1192-"aDefine a constant instead of duplicating this literal ",   ìƒì–´ì˜ í˜„ì¬ ê³µê²©ë ¥: " 3 times.(Ñœ™ô8ğµ¨É‰.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(Ñœ™ô8ğµ¨É‰.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğµ¨É‰.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğµ¨É‰.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ºÄÕ°8ğµ¨É‰.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ªşÑüøÿÿÿÿ8ğµ¨É‰.
+@
+java:S2119$"Save and re-use this "Random".(¼Ú’¸şÿÿÿÿ8ğµ¨É‰.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(İÙı8ğµ¨É‰.
+˜
+java:S1319"{The type of the "pkindOfCharacter" object should be an interface such as "List" rather than the implementation "ArrayList".(µ˜¥Õ8ğµ¨É‰.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ªşÑüøÿÿÿÿ8ğµ¨É‰.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ªşÑüøÿÿÿÿ8ğµ¨É‰.
+–
+java:S1192+"tDefine a constant instead of duplicating this literal "  ìœ ì €ì˜ í˜„ì¬ ìƒíƒœ:  1.ìœ ì €ì˜ ë°©ì–´ë ¥: " 3 times.(ªşÑüøÿÿÿÿ8ğµ¨É‰.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ºÄÕ°8ğµ¨É‰.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(Â½²Î8ğµ¨É‰.

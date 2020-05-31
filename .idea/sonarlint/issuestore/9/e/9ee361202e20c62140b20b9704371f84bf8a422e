@@ -1,0 +1,29 @@
+
+U
+squid:S106<"9Replace this use of System.out or System.err by a logger.(‘ÿA8·—…¾‡.
+esquid:S2142†"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ßÿÁ¿‡.
+Fsquid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·—…¾‡.
+V
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(À‘²¤8·—…¾‡.
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(Û°êèıÿÿÿÿ8·—…¾‡.
+fsquid:S00107"BConstructor has 11 parameters, which is greater than 7 authorized.(²ğûÿÿÿÿ8·—…¾‡.
+squid:S1319"{The type of the "pkindOfCharacter" object should be an interface such as "List" rather than the implementation "ArrayList".(²ğûÿÿÿÿ8·—…¾‡.
+psquid:S37769"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(“–ış8·—…¾‡.
+dsquid:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8·—…¾‡.
+\
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(‡³şÕûÿÿÿÿ8·—…¾‡.
+[
+squid:S106j"9Replace this use of System.out or System.err by a logger.(ÏŸ€Õÿÿÿÿÿ8·—…¾‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(øŠ Éûÿÿÿÿ8·—…¾‡.
+Gsquid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßÿÁ¿‡.
+V
+squid:S106n"9Replace this use of System.out or System.err by a logger.(¸ÍÖú8·—…¾‡.
+v
+squid:S135="YReduce the total number of break and continue statements in this loop to use at most one.(¾İ”8·—…¾‡.
+Hsquid:S5411="*Use the primitive boolean expression here.(¾İ”8·—…¾‡.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ñçšıÿÿÿÿ8·—…¾‡.
+[
+squid:S106}"9Replace this use of System.out or System.err by a logger.(Â™ù°ÿÿÿÿÿ8·—…¾‡.

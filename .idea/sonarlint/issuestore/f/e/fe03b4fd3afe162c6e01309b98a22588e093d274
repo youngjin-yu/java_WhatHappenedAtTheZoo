@@ -1,0 +1,145 @@
+
+?	java:S131“""Add a default case to this switch.(ûê…¸8ìµ¨É‰.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ìµ¨É‰.
+
+java:S1192æ"\Define a constant instead of duplicating this literal "í˜„ì¬ ë‚¨ì•„ìˆëŠ” ëˆì€ " 4 times.(„¾ûåøÿÿÿÿ8ìµ¨É‰.
+H
+java:S5411"*Use the primitive boolean expression here.(¾İ”8ìµ¨É‰.
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(ìçŞıÿÿÿÿ8ìµ¨É‰.
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(ÏŸ€Õÿÿÿÿÿ8ìµ¨É‰.
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(ë˜–œ8ìµ¨É‰.
+v	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¾İ”8ìµ¨É‰.
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(’¸ºÌ8ìµ¨É‰.
+V	java:S106£"9Replace this use of System.out or System.err by a logger.(ºÄÕ°8ìµ¨É‰.
+V	java:S106²"9Replace this use of System.out or System.err by a logger.(¸ÍÖú8ìµ¨É‰.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(È©ÿ&8ìµ¨É‰.
+[	java:S106Ù"9Replace this use of System.out or System.err by a logger.(«¹óÆúÿÿÿÿ8ìµ¨É‰.
+p
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(“²ˆ†8ìµ¨É‰.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(ºıÔ´úÿÿÿÿ8ìµ¨É‰.
+H
+java:S5411æ"*Use the primitive boolean expression here.(¾İ”8ìµ¨É‰.
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(ê×—åÿÿÿÿÿ8ìµ¨É‰.
+V	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ÊêËã8ìµ¨É‰.
+u	java:S135q"YReduce the total number of break and continue statements in this loop to use at most one.(¾İ”8ìµ¨É‰.
+[	java:S106¥"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ìµ¨É‰.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(„¾ûåøÿÿÿÿ8ìµ¨É‰.
+U	java:S106§"9Replace this use of System.out or System.err by a logger.(¬ü§`8ìµ¨É‰.
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(Óú™úÿÿÿÿ8ìµ¨É‰.
+p
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ñµŞ›8ìµ¨É‰.
+_	java:S107ƒ"=Method has 10 parameters, which is greater than 7 authorized.(®ÔĞıÿÿÿÿ8ìµ¨É‰.
+i
+java:S1301…"KReplace this "switch" statement by "if" statements to increase readability.(ëùü×8ìµ¨É‰.
+v	java:S135Å"YReduce the total number of break and continue statements in this loop to use at most one.(¾İ”8ìµ¨É‰.
+V	java:S106ğ"9Replace this use of System.out or System.err by a logger.(¸ÍÖú8ìµ¨É‰.
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(¸ÍÖú8ìµ¨É‰.
+r
+java:S1192æ"ODefine a constant instead of duplicating this literal "ì› ì…ë‹ˆë‹¤." 6 times.(„¾ûåøÿÿÿÿ8ìµ¨É‰.
+X	java:S125h"<This block of commented-out lines of code should be removed.(«àÏ8ìµ¨É‰.
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(¼«ùıÿÿÿÿ8ìµ¨É‰.
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(àù„‘øÿÿÿÿ8ìµ¨É‰.
+?	java:S131…""Add a default case to this switch.(ëùü×8ìµ¨É‰.
+v	java:S135¨"YReduce the total number of break and continue statements in this loop to use at most one.(¾İ”8ìµ¨É‰.
+m	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æú¯8ìµ¨É‰.
+H
+java:S5411‡"*Use the primitive boolean expression here.(¾İ”8ìµ¨É‰.
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(ÛîÒöøÿÿÿÿ8ìµ¨É‰.
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(äû»´øÿÿÿÿ8ìµ¨É‰.
+y
+java:S1192ú"[Define a constant instead of duplicating this literal " ì´(ê°€) ì£½ì—ˆìŠµë‹ˆë‹¤." 4 times.(ŞìÉ¤8ìµ¨É‰.
+[	java:S106Î"9Replace this use of System.out or System.err by a logger.(’Ô×Åùÿÿÿÿ8ìµ¨É‰.
+[	java:S106û"9Replace this use of System.out or System.err by a logger.(—Ü¯äüÿÿÿÿ8ìµ¨É‰.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(„ú®³şÿÿÿÿ8ìµ¨É‰.
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(±×ôÒ8ìµ¨É‰.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(øŠ Éûÿÿÿÿ8ìµ¨É‰.
+[	java:S106ó"9Replace this use of System.out or System.err by a logger.(î®Ü×ùÿÿÿÿ8ìµ¨É‰.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ƒËîõúÿÿÿÿ8ìµ¨É‰.
+€
+java:S1192§"cDefine a constant instead of duplicating this literal " ë§ˆë¦¬ê°€ ìŠµê²© í•˜ì˜€ìŠµë‹ˆë‹¤!" 4 times.(¬ü§`8ìµ¨É‰.
+[	java:S106İ"9Replace this use of System.out or System.err by a logger.(Ï°ÖÎøÿÿÿÿ8ìµ¨É‰.
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(Ñœ™ô8ìµ¨É‰.
+v	java:S135‡"YReduce the total number of break and continue statements in this loop to use at most one.(¾İ”8ìµ¨É‰.
+Z	java:S107Á"=Method has 10 parameters, which is greater than 7 authorized.(“²ˆ†8ìµ¨É‰.
+[	java:S106Î"9Replace this use of System.out or System.err by a logger.(èöï¾øÿÿÿÿ8ìµ¨É‰.
+[	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ÏŸ€Õÿÿÿÿÿ8ìµ¨É‰.
+_	java:S107¤"=Method has 10 parameters, which is greater than 7 authorized.(Í¯”õûÿÿÿÿ8ìµ¨É‰.
+
+java:S1192ñ"lDefine a constant instead of duplicating this literal "ë™ë¬¼ê³¼ ì‹¸ì›Œì„œ ì‚¬ëŒì´ ì¡ŒìŠµë‹ˆë‹¤." 4 times.(øŠ Éûÿÿÿÿ8ìµ¨É‰.
+‹
+java:S1192Ï"hDefine a constant instead of duplicating this literal "ì‚¬ëŒì´ ê³µê²©ì„ í”¼í•˜ì˜€ìŠµë‹ˆë‹¤." 4 times.(ÏŸ€Õÿÿÿÿÿ8ìµ¨É‰.
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(„©âá8ìµ¨É‰.
+[	java:S106æ"9Replace this use of System.out or System.err by a logger.(„¾ûåøÿÿÿÿ8ìµ¨É‰.
+U	java:S106û"9Replace this use of System.out or System.err by a logger.(Ï”²
+8ìµ¨É‰.
+{
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼‡™ùÿÿÿÿ8ìµ¨É‰.
+V	java:S106ğ"9Replace this use of System.out or System.err by a logger.(¾«Ô¤8ìµ¨É‰.
+[	java:S106Ú"9Replace this use of System.out or System.err by a logger.(ë›˜¿üÿÿÿÿ8ìµ¨É‰.
+n
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(º™Ú78ìµ¨É‰.
+•
+java:S1192µ"rDefine a constant instead of duplicating this literal " ì´(ê°€) ê³µê²©ì„ í”¼í•˜ì§€ ëª»í•˜ì˜€ìŠµë‹ˆë‹¤." 4 times.(Óú™úÿÿÿÿ8ìµ¨É‰.
+]	java:S125B"<This block of commented-out lines of code should be removed.(¢ß¸£ùÿÿÿÿ8ìµ¨É‰.
+[	java:S106ì"9Replace this use of System.out or System.err by a logger.(ÏŸ€Õÿÿÿÿÿ8ìµ¨É‰.
+[	java:S106Ò"9Replace this use of System.out or System.err by a logger.(”½›ıÿÿÿÿ8ìµ¨É‰.
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(­„´Ë8ìµ¨É‰.
+i
+java:S1301“"KReplace this "switch" statement by "if" statements to increase readability.(ûê…¸8ìµ¨É‰.
+[	java:S106è"9Replace this use of System.out or System.err by a logger.(ş©îúÿÿÿÿ8ìµ¨É‰.
+u
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(®ÔĞıÿÿÿÿ8ìµ¨É‰.
+[	java:S106ï"9Replace this use of System.out or System.err by a logger.(÷Íåóùÿÿÿÿ8ìµ¨É‰.
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ƒä»ßùÿÿÿÿ8ìµ¨É‰.
+T	java:S106D"9Replace this use of System.out or System.err by a logger.(‚”­8ìµ¨É‰.
+[	java:S106“"9Replace this use of System.out or System.err by a logger.( ‚Äûÿÿÿÿÿ8ìµ¨É‰.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ÏŸ€Õÿÿÿÿÿ8ìµ¨É‰.
+u
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(Í¯”õûÿÿÿÿ8ìµ¨É‰.
+X	java:S125="<This block of commented-out lines of code should be removed.(ó‹û8ìµ¨É‰.
+[	java:S106ü"9Replace this use of System.out or System.err by a logger.(„¾ûåøÿÿÿÿ8ìµ¨É‰.
+[	java:S106Ä"9Replace this use of System.out or System.err by a logger.(·Œğúÿÿÿÿ8ìµ¨É‰.
+H
+java:S5411Å"*Use the primitive boolean expression here.(¾İ”8ìµ¨É‰.
+Z	java:S107â"=Method has 10 parameters, which is greater than 7 authorized.(ñµŞ›8ìµ¨É‰.
+V	java:S106å"9Replace this use of System.out or System.err by a logger.(ŞÂ‹Ş8ìµ¨É‰.
+|
+java:S1192û"_Define a constant instead of duplicating this literal "ì›ì˜ ëˆì„ ì–»ì—ˆìŠµë‹ˆë‹¤!" 4 times.(Ï”²
+8ìµ¨É‰.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(œÔÔıÿÿÿÿ8ìµ¨É‰.
+[	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(øŠ Éûÿÿÿÿ8ìµ¨É‰.
+V	java:S106ş"9Replace this use of System.out or System.err by a logger.(ñìŞÉ8ìµ¨É‰.
+V	java:S106ó"9Replace this use of System.out or System.err by a logger.(›´Ï›8ìµ¨É‰.
+z
+java:S1192ï"\Define a constant instead of duplicating this literal "í˜„ì¬ ì‚¬ëŒì˜ ì²´ë ¥ì€ " 4 times.(ˆÅ´Ó8ìµ¨É‰.
+‹
+java:S1192±"hDefine a constant instead of duplicating this literal " ì´(ê°€) ê³µê²©ì„ í”¼í•˜ì˜€ìŠµë‹ˆë‹¤." 4 times.(è¬†ãşÿÿÿÿ8ìµ¨É‰.
+u
+java:S1192ï"WDefine a constant instead of duplicating this literal ", ë™ë¬¼ì˜ ì²´ë ¥ì€ " 4 times.(ˆÅ´Ó8ìµ¨É‰.
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(Ê«ÂÃÿÿÿÿÿ8ìµ¨É‰.
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ìµ¨É‰.
+[	java:S106ñ"9Replace this use of System.out or System.err by a logger.(„¾ûåøÿÿÿÿ8ìµ¨É‰.
+[	java:S106ñ"9Replace this use of System.out or System.err by a logger.(øŠ Éûÿÿÿÿ8ìµ¨É‰.
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(øŠ Éûÿÿÿÿ8ìµ¨É‰.
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(ß°ûè8ìµ¨É‰.
+G
+java:S5411q"*Use the primitive boolean expression here.(¾İ”8ìµ¨É‰.
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(¿©¥­úÿÿÿÿ8ìµ¨É‰.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(îŸìƒ8ìµ¨É‰.
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(İæø8ìµ¨É‰.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(¸°€‘8ìµ¨É‰.
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(ªşÑüøÿÿÿÿ8ìµ¨É‰.
+[	java:S106±"9Replace this use of System.out or System.err by a logger.(è¬†ãşÿÿÿÿ8ìµ¨É‰.
+V	java:S106Ó"9Replace this use of System.out or System.err by a logger.(¸ÍÖú8ìµ¨É‰.
+H
+java:S5411¨"*Use the primitive boolean expression here.(¾İ”8ìµ¨É‰.
+I
+java:S14819",Remove this unused "userage" local variable.(£ì‘ö8ìµ¨É‰.
+V	java:S106ï"9Replace this use of System.out or System.err by a logger.(ˆÅ´Ó8ìµ¨É‰.
+
+java:S1192Ó"rDefine a constant instead of duplicating this literal "ì‚¬ëŒì´ ê³µê²©ì„ í”¼í•˜ì§€ ëª»í•˜ì˜€ìŠµë‹ˆë‹¤." 4 times.(¸ÍÖú8ìµ¨É‰.
+V	java:S106å"9Replace this use of System.out or System.err by a logger.(¸É®Í8ìµ¨É‰.
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(ÄÁœÓûÿÿÿÿ8ìµ¨É‰.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(œÔÔıÿÿÿÿ8ìµ¨É‰.
+V	java:S106ú"9Replace this use of System.out or System.err by a logger.(ŞìÉ¤8ìµ¨É‰.
+v	java:S135æ"YReduce the total number of break and continue statements in this loop to use at most one.(¾İ”8ìµ¨É‰.

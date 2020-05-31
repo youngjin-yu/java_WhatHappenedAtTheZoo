@@ -1,0 +1,11 @@
+
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽòÃ‹ýÿÿÿÿ8ªºÞ´‡.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Þß×þÿÿÿÿ8Éß¦þ†.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛÆåò8ï›¨þ†.
+Ksquid:S1172"/Remove this unused method parameter "stingray".(Ø¿Öº8ªºÞ´‡.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö¨«8‰ÎÀ¶†.
+Psquid:S1172"/Remove this unused method parameter "stingray".(ŽòÃ‹ýÿÿÿÿ8ªºÞ´‡.
+?squid:S2119"Save and re-use this "Random".(¼Ú’¸þÿÿÿÿ8‰ÎÀ¶†.
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¿Öº8ªºÞ´‡.

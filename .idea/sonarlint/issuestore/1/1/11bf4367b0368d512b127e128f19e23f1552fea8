@@ -1,0 +1,10 @@
+
+N
+java:S1172",Remove this unused method parameter "shark".(ƒâ¨úÿÿÿÿ8îµ¨É‰.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÉÍ¨¸8îµ¨É‰.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒâ¨úÿÿÿÿ8îµ¨É‰.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö¨«8îµ¨É‰.
+I
+java:S1172"",Remove this unused method parameter "shark".(áòµ8îµ¨É‰.
+j	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áòµ8îµ¨É‰.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…à²8îµ¨É‰.

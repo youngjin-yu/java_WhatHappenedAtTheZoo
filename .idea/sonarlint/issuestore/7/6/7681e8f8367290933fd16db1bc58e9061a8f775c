@@ -1,0 +1,26 @@
+
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(¶Û‹›ÿÿÿÿÿ8ïµ¨É‰.
+u	java:S135<"YReduce the total number of break and continue statements in this loop to use at most one.(¾Ý”8ïµ¨É‰.
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(¸ÍÖú8ïµ¨É‰.
+d
+java:S2142…"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ïµ¨É‰.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(î€ºçùÿÿÿÿ8ïµ¨É‰.
+c
+java:S2142E"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ïµ¨É‰.
+c	java:S107"BConstructor has 11 parameters, which is greater than 7 authorized.(†ñù™ùÿÿÿÿ8ïµ¨É‰.
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(øŠ Éûÿÿÿÿ8ïµ¨É‰.
+o
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(“–ýþ8ïµ¨É‰.
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(ÏŸ€Õÿÿÿÿÿ8ïµ¨É‰.
+E
+java:S1148F"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ïµ¨É‰.
+F
+java:S1148†"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ïµ¨É‰.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(£ Ó¸øÿÿÿÿ8ïµ¨É‰.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(šÅ°íúÿÿÿÿ8ïµ¨É‰.
+G
+java:S5411<"*Use the primitive boolean expression here.(¾Ý”8ïµ¨É‰.
+
+java:S1319"{The type of the "pkindOfCharacter" object should be an interface such as "List" rather than the implementation "ArrayList".(†ñù™ùÿÿÿÿ8ïµ¨É‰.
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(ë×Ô8ïµ¨É‰.
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ú‘÷ßùÿÿÿÿ8ïµ¨É‰.

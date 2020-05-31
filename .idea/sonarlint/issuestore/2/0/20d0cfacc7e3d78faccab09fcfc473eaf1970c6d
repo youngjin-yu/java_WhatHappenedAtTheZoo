@@ -1,0 +1,9 @@
+
+i	java:S116	"MRename this field "HP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÂãŒ8îµ¨É‰.
+@
+java:S2119n"Save and re-use this "Random".(¼Ú’¸þÿÿÿÿ8îµ¨É‰.
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀúÒ†ÿÿÿÿÿ8îµ¨É‰.
+j	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÀ³.8îµ¨É‰.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(¨òÜ—ùÿÿÿÿ8îµ¨É‰.
+d
+java:S1226p"GIntroduce a new variable instead of reusing the parameter "humanAvoid".(Œû‰œ8îµ¨É‰.
